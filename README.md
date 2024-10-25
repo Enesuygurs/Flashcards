@@ -34,4 +34,15 @@ Flashcards is a simple yet effective application designed to help users learn an
 1. Clone the repository:
    ```bash
    git clone https://github.com/enesuygurs/Flashcards.git
- 
+   ```
+
+2. Open the solution file (`Flashcards.sln`) in Visual Studio.
+3. Build the project.
+4. Run the application.
+
+## Usage
+
+1. Enter a question in the "Question" text box.
+2. Enter the corresponding answer in the "Answer" text box.
+3. Click "Save" to store the flashcard.
+4. Click "Show Cards" to display a random flashcard.
